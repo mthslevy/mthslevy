@@ -3,6 +3,7 @@
 - 📘 Estou estudando para me tornar um Dev Front-End
 - 👨‍💻 2/6 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
+
 <div>
   <a href="https://github.com/mthslevy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthslevy&theme=radical">
@@ -16,5 +17,6 @@
      <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mthslevy/)
   <hr>
 
