@@ -11,13 +11,13 @@
 </div>
 
 <h1>💻Tecnologias</h1>
-  <div style="padding-bottom:20px ;">
+  <div>
      <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
      <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
    
- 
+ <div>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mthslevy/)
   
-
+  </div>
