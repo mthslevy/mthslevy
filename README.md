@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/mthslevy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthslevy&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthslevy&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthslevy&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthslevy&layout=compact&theme=radical">
 </div>
 
 <h1>💻Tecnologias</h1>
