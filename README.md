@@ -1,7 +1,7 @@
 ## Olá 👋! Me chamo Matheus Levy.
 
 - 📘 Estou estudando para me tornar um Dev Front-End
-- 👨‍💻 2/6 - Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- Análise e Desenvolvimento de Sistemas - Estácio de Sá
 
 
 <div>
